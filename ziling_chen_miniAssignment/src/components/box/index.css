@@ -1,0 +1,10 @@
+.active{
+    background-color: black;
+}
+.default{
+    background-color: white;
+}
+.box{
+    width: 149px;
+    height: 149px;
+}
